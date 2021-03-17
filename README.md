@@ -1,0 +1,2 @@
+# vendasAppTeste
+Aplicação de vendas
